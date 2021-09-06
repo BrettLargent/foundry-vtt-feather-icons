@@ -1,0 +1,10 @@
+{
+  "name": "foundry-vtt-feather-icons",
+  "title": "Foundry VTT Feather Icons",
+  "description": "Gives modules the ability to use feather icons.",
+  "version": "1.0.0",
+  "author": "blargent",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.8.8",
+  "scripts": ["https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"]
+}
