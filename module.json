@@ -7,7 +7,7 @@
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.8.9",
   "scripts": ["https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"],
-  "url": "https://github.com/BrettLargent/foundry-vtt-feather-icons",
-  "manifest": "https://raw.githubusercontent.com/BrettLargent/foundry-vtt-feather-icons/main/module.json",
-  "download": "https://github.com/BrettLargent/foundry-vtt-feather-icons/archive/refs/heads/main.zip"
+  "url": "https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-feather-icons",
+  "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-feather-icons/main/module.json",
+  "download": "https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-feather-icons/archive/refs/heads/main.zip"
 }
