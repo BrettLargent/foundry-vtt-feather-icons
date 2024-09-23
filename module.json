@@ -2,11 +2,11 @@
   "id": "foundry-vtt-feather-icons",
   "title": "Foundry VTT Feather Icons",
   "description": "Gives modules the ability to use feather icons.",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "author": "blargent",
   "compatibility": {
     "minimum": "0.7.5",
-    "verified": "11"
+    "verified": "12"
   },
   "scripts": ["https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"],
   "url": "https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-feather-icons",
